@@ -1,0 +1,50 @@
+C00 - Introduction au langage C
+ex00: ft_putchar - Afficher un caractère
+ex01: ft_print_alphabet - Afficher l'alphabet
+ex02: ft_print_reverse_alphabet - Afficher l'alphabet en sens inverse
+ex03: ft_print_numbers - Afficher les chiffres de 0 à 9
+ex04: ft_is_negative - Afficher les chiffres de 9 à 0 en sens inverse
+ex05: ft_print_comb - Combinaison des chiffres en différentes paires
+C01 - Pointeurs et instructions conditionnelles
+ex00: ft_ft - Créer un pointeur vers 42
+ex01: ft_ultimate_ft - Créer un pointeur vers un pointeur... qui pointe vers 42
+ex02: ft_swap - Échanger deux valeurs en utilisant une variable temporaire
+ex03: ft_div_mod - Utiliser la division et le modulo pour renvoyer une valeur
+ex04: ft_ultimate_div_mod - Stocker des valeurs, les échanger, utiliser la division et le modulo
+ex05: ft_putstr - Afficher une chaîne de caractères
+ex06: ft_strlen - Obtenir la longueur d'une chaîne de caractères
+C02 - Introduction aux chaînes de caractères et aux tableaux
+ex00: ft_strcpy - Copier une chaîne de caractères
+ex01: ft_strncpy - Copier une chaîne de caractères avec un entier non signé
+ex02: ft_str_is_alpha - Utiliser des instructions conditionnelles avec des tableaux
+ex03: ft_str_is_numeric - Vérifier si une chaîne de caractères contient uniquement des chiffres
+ex04: ft_str_is_lowercase - Vérifier si une chaîne de caractères contient uniquement des minuscules
+ex05: ft_str_is_uppercase - Vérifier si une chaîne de caractères contient uniquement des majuscules
+ex06: ft_str_is_printable - Vérifier si une chaîne de caractères est imprimable
+ex07: ft_strupcase - Mettre une chaîne de caractères en majuscules
+ex08: ft_strlowcase - Mettre une chaîne de caractères en minuscules
+C03 - Fonctions de manipulation et de concaténation de chaînes de caractères
+ex00: ft_strcmp - Comparer deux chaînes de caractères et renvoyer une valeur
+ex01: ft_strncmp - Comparer deux chaînes de caractères et renvoyer une valeur en utilisant des entiers non signés
+ex02: ft_strcat - Concaténer deux chaînes de caractères
+ex03: ft_strncat - Concaténer deux chaînes de caractères en utilisant des entiers non signés
+C04 - Analyse des qualités des chaînes de caractères et manipulation des entiers
+ex00: ft_strlen - Obtenir la longueur d'une chaîne de caractères
+ex01: ft_putstr - Afficher une chaîne de caractères
+ex02: ft_putnbr - Afficher n'importe quel nombre dans la plage des entiers max/min
+C05 - Concepts mathématiques en C
+ex00: ft_iterative_factorial - Créer un programme qui génère des factorielles de manière itérative
+ex01: ft_recursive_factorial - Générer des factorielles de manière récursive
+ex02: ft_iterative_power - Générer des puissances de manière itérative
+ex03: ft_recursive_power - Générer des puissances de manière récursive
+ex04: ft_fibonacci - Générer la suite de Fibonacci
+ex05: ft_sqrt - Trouver la racine carrée d'un nombre donné
+C06 - Compréhension de argc et argv
+ex00: ft_print_program_name - Afficher le nom d'un programme
+ex01: ft_print_params - Afficher les paramètres d'un programme
+ex02: ft_rev_params - Afficher les paramètres d'un programme dans l'ordre inverse
+C07 - Allocation de mémoire
+ex00: ft_strdup - Dupliquer une chaîne de caractères
+ex01: ft_range - Retourner une plage de nombres
+ex02: ft_ultimate_range - Retourner la longueur d'une plage de nombres
+ex03: ft_strjoin - Joindre deux chaînes de caractères ensemble

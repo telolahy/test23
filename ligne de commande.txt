@@ -1,0 +1,29 @@
+ls : Affiche la liste des fichiers et dossiers dans le répertoire courant.
+Exemple : ls
+
+cd : Change de répertoire.
+Exemple : cd chemin/vers/le/dossier
+
+mkdir : Crée un nouveau dossier.
+Exemple : mkdir nom_dossier
+
+rm : Supprime un fichier ou un dossier.
+Exemple : rm nom_fichier
+
+cp : Copie un fichier ou un dossier.
+Exemple : cp fichier_source fichier_destination
+
+mv : Déplace un fichier ou un dossier.
+Exemple : mv fichier_source fichier_destination
+
+cat : Affiche le contenu d'un fichier.
+Exemple : cat nom_fichier
+
+touch : Crée un nouveau fichier vide.
+Exemple : touch nom_fichier
+
+grep : Recherche un motif dans un fichier.
+Exemple : grep motif fichier
+
+chmod : Modifie les permissions d'un fichier ou d'un dossier.
+Exemple : chmod +x fichier (ajoute l'exécution)

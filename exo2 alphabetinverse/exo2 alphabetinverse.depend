@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689693968 source:d:\code 42\exo2 alphabetinverse\main.c
+	<stdio.h>
+	<stdlib.h>
+
